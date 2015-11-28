@@ -2,6 +2,8 @@
 
 **The code is in JavaScript,HTML and php.**
 
+**THE OUTPUT FOR THE MAIN PROJECT HAS BEEN UPLOADED IN THE "ISSUE" SECTION. KINDLY HAVE A LOOK **
+
 **Google APIs   and   Indian Railways APIs(from third party) have been used with unique keys for a particular user.**
 (after signing      (railwayapi.com was the source,
 in to ones           for trains b/w two points:
@@ -30,7 +32,7 @@ I am not putting out the API keys because of privacy issues. If required I can m
 
 **I have also uploaded the TRAIN_ROUTE file which was a failed attempt, but for the purpose of transperancy I am uploading it, it was also produced to the HOD while submission and demonstration.** 
 
-
+                                                        THANK YOU
 
 
 
