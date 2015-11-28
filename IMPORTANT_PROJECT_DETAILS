@@ -1,0 +1,37 @@
+# website-create-PART-1
+
+**The code is in JavaScript,HTML and php.**
+
+**Google APIs   and   Indian Railways APIs(from third party) have been used with unique keys for a particular user.**
+(after signing      (railwayapi.com was the source,
+in to ones           for trains b/w two points:
+google account,      http://api.railwayapi.com/between/source/<station code>/dest/<station code>/date/dd-mm/apikey/<apikey>/
+search for           for route:(this was a failed attempt)
+google directive     http://api.railwayapi.com/route/train/<train number>/apikey/<apikey>/  )
+and enable API        
+key)                 
+
+
+http://windows.php.net/downloads/qa/test/5.3.2-final/ 
+The above url was used to download the nts version of php.
+
+ 3/22/2011  3:47 PM     24821760 php-5.3.2-nts-Win32-VC6-x86.msi
+ (This is the first one in the directory from which it can be downloded)
+ 
+**Then from run->optionalfeatures.exe->exapand internet information services(do not tick the box)->expand world wide web services-> make sure CGI is checked**
+
+I was provided with JQUERY 2.1.4.min
+
+I contacted the admin of the third party providing railway API through an enquiry form service because of the JSON response problem, the response had to be converted to JSONp and hence, the curl method was used.
+
+I also had taken help from faculty members from the CSIT department, the curl method was suggested by them.
+
+I am not putting out the API keys because of privacy issues. If required I can mail them for rechecking purpose. 
+
+**I have also uploaded the TRAIN_ROUTE file which was a failed attempt, but for the purpose of transperancy I am uploading it, it was also produced to the HOD while submission and demonstration.** 
+
+
+
+
+
+
