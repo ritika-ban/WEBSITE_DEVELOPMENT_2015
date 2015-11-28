@@ -10,7 +10,7 @@ in to ones           for trains b/w two points:
 google account,      http://api.railwayapi.com/between/source/<station code>/dest/<station code>/date/dd-mm/apikey/<apikey>/
 search for           for route:(this was a failed attempt)
 google directive     http://api.railwayapi.com/route/train/<train number>/apikey/<apikey>/  )
-and enable API        
+and enable API       THE RAIL APIs ARE AVAILABLE FOR 90 DAYS, ENDING IN FEBRUARY.
 key)                 
 
 
